@@ -25,8 +25,8 @@
 <a href="https://twitter.com/klloshe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="klloshe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-abdelrhman-a43ab3216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-abdelrhman-a43ab3216" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18277599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18277599" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/kolloshe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kolloshe/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/klloshi?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/klloshi?igshid=ymmymta2m2y=" height="30" width="40" /></a>
+<a href="https://fb.com/kolloshe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kolloshe/" height="30" width="40" /></a>
+<a href="https://instagram.com/klloshi?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/klloshi?igshid=ymmymta2m2y=" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
